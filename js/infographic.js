@@ -51,16 +51,21 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             type: 'image',
             src: '9.png',
+            caption: "How does this system prevent abuse by delegates or MPs? Their power no longer comes from a hidden vote in parliament, but from their ability to earn your trust publicly. Their entire proposed budget is visible to all their followers. If a special interest group influenced their plan, the change would be instantly visible, leading to a real-time loss of support. They can only lead by proposing plans that people genuinely believe in. Backroom deals become politically toxic when the 'room' is a transparent platform."
+        },
+        {
+            type: 'image',
+            src: '10.png',
             caption: `"The government's role evolves to expert implementation and oversight. They are the professional administrators tasked with carrying out the public's financial will, and they stand ready to act as the ultimate safeguard for the nation."`
         },
         {
             type: 'video',
-            src: '10.mp4',
+            src: '11.mp4',
             caption: `"If that emergency button is ever pressed, it triggers instant and total transparency. There are no secret meetings or backroom deals. The decision, the justification, and the flow of money are immediately broadcast to all. Corruption thrives in secrecy; this system demands sunlight."`
         },
         {
             type: 'image',
-            src: '11.png',
+            src: '12.png',
             caption: `"This isn't a fantasy for the future. With the technology we all hold in our hands in July 2025, we can build a more direct, transparent, and trusted democracy. A budget for the people, by the people, designed for the digital age."`
         }
     ];
